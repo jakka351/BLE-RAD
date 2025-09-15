@@ -3,4 +3,5 @@ Dual Interface Bluetooth Low Energy Radar/Overwatch
 
 <sup> For Raspberry Pi! </sup>
 
-<img width="1286" height="615" alt="image" src="https://github.com/user-attachments/assets/06e4bfb1-27e1-44df-9a49-6e6917b7e926" />
+<img width="1761" height="758" alt="image" src="https://github.com/user-attachments/assets/19c38cc3-e098-4d65-92bf-93040d79027e" />
+
